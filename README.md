@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Rehan 👋
 
-<!--
-**SyedRehanuddin/SyedRehanuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Full-Stack Developer | B.Tech CSE '29 | SR University**
 
-Here are some ideas to get you started:
+I work on database-driven web applications, backend APIs, Telegram bots, and cloud automation. My projects have involved FastAPI endpoints, PostgreSQL databases, background scheduling, and AWS Lambda workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** Python, JavaScript, SQL
+- **Backend:** FastAPI, REST APIs
+- **Frontend:** React
+- **Database:** PostgreSQL
+- **Cloud & Tools:** AWS, Git
+
+### Currently Focused On
+
+- Developing and improving backend and full-stack applications
+- Strengthening my knowledge of automated testing and database design
+- Learning data structures, algorithms, and software architecture
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/syedrehanuddin1/)
